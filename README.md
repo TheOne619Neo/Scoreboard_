@@ -15,7 +15,7 @@ This project is a Spring Boot application that tracks the top 10 players' scores
 1. Clone the repository:
    ```bash
    git clone <https://github.com/TheOne619Neo/Scoreboard>
-   cd top-players-scoreboard
+   cd src/main/java/com/theOne/test
 ### Build the project:
 
 1. mvn clean install
