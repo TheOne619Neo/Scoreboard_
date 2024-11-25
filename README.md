@@ -54,8 +54,8 @@ Response Body:
 The application uses an in-memory list to store player scores.
 The list is sorted in descending order based on scores.
 Only the top 10 players are kept in the list.
-Versions
-Java: 11
-Spring Boot: 2.5.4
+#### Versions
+Java: 23
+Spring Boot: 3.4.0
 
 This implementation includes the necessary classes and methods to manage the top 10 players' scores, as well as a README file with instructions on how to run the project and details about the exposed endpoints.
