@@ -22,6 +22,11 @@ This project is a Spring Boot application that tracks the top 10 players' scores
 
 ### Run the application:
 
+Run "TopPlayersApplication.java" that is the main.
+If you using intelliJ just click the run button, after project build 
+enter http://localhost:8080/addPlayer to view or change endpoint.
+
+Alternatively you can also use
 1. mvn spring-boot:run
 
 ### Exposed Endpoints
